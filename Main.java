@@ -232,8 +232,8 @@ public class Main {
         }
         int stop =0;
 
-//        System.out.println(tree.find(7));
-//        System.out.println(tree.find(9));
+System.out.println(tree.find(7));
+System.out.println(tree.find(9));
 
 
     }
